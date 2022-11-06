@@ -2,7 +2,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LWeiPjsHdXk2s/giphy.gif" width="400"/>
-</div>
+
+
+▙▟ ▛▟ ▜▛ 🆁 ▙▟ █☰ ▟▛ █☰ ❰ 
 
 
 <!--
@@ -43,12 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/Untruesec/Untruesec/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Untruesec&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Untruesec&langs_count=8&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
 
