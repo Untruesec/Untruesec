@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
+![Snake animation](https://github.com/Untruesec/Untruesec/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplus" alt="Cplus" width="100" height="40"/>&nbsp;
@@ -44,11 +45,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dotnet" **alt="Dotnet" width="100" height="40"/>
 </div>
 
-![Snake animation](https://github.com/Untruesec/Untruesec/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
+
 <img src="https://media1.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif?cid=6c09b9528999b0aa6d250838b16f330b2487cfdb66061ebb&rid=giphy.gif&ct=g" width="400"/>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
 
-<img src="https://media2.giphy.com/media/5ZYA31R5OP6JdmVP3f/giphy.gif?cid=6c09b952fcbe67c9699198beb161a3bfdd50c9b6575e8c45&rid=giphy.gif&ct=g" width="400"/>
+<img src="https://media1.giphy.com/media/fdOA43sHFE6Pu/giphy.gif?cid=6c09b952f5652115ed9cfe55b35b00ec38a4247d745dd2c7&rid=giphy.gif&ct=g" width="400"/>
