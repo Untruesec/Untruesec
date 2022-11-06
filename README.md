@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JYZWs0UkzK2WKBoCUM/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l41lQsh0iOvne52yA/giphy.gif" width="400"/>
 </div>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="40"/>
 </div>
 
-
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Untruesec&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Untruesec&show_icons=true&theme=midnight-purple)
 
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
