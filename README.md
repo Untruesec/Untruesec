@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
-
+<img src="./cooltext422883268322290.png">
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/LWeiPjsHdXk2s/giphy.gif" width="400"/>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
@@ -47,8 +47,5 @@ Here are some ideas to get you started:
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
 
-<img src="https://media1.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif?cid=6c09b9528999b0aa6d250838b16f330b2487cfdb66061ebb&rid=giphy.gif&ct=g" width="400"/>
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="2"><br>
 
-<img src="https://media1.giphy.com/media/fdOA43sHFE6Pu/giphy.gif?cid=6c09b952f5652115ed9cfe55b35b00ec38a4247d745dd2c7&rid=giphy.gif&ct=g" width="400"/>
