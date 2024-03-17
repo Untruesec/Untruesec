@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-![](https://github.com/Untruesec/Untruesec/blob/main/Untruesec3.gif)
+
 
 
 <div align="center">
