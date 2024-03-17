@@ -2,7 +2,9 @@
 
 ![](https://github.com/Untruesec/Untruesec/blob/main/Untruesec3.gif)
 
+<h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+!+Im+Untrue)](https://git.io/typing-svg)
+</h1>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FUntruesec&label=Total%20Visitors&countColor=%23555555)
 
